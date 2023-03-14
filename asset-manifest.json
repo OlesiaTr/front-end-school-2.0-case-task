@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front-end-school-2.0-case-task/static/css/main.17654e45.css",
+    "main.js": "/front-end-school-2.0-case-task/static/js/main.b6317096.js",
+    "index.html": "/front-end-school-2.0-case-task/index.html",
+    "main.17654e45.css.map": "/front-end-school-2.0-case-task/static/css/main.17654e45.css.map",
+    "main.b6317096.js.map": "/front-end-school-2.0-case-task/static/js/main.b6317096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.b6317096.js"
+  ]
+}
